@@ -1,6 +1,6 @@
 # Clasificación de textos en Esperanto: judaísmo, cristianismo e islam
 
-Práctica de **Minería de Textos** (curso 2026/27) · Profesor: Javier Paris
+Práctica de **Minería de Textos** (curso 2026/27)
 
 **Equipo:** Marco Antonio Benali, Lucía Monteagudo y Sofía Madrazo
 
